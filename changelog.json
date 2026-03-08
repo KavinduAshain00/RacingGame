@@ -1,6 +1,18 @@
 {
   "versions": [
     {
+      "version": "1.03",
+      "date": "2026-03-15",
+      "title": "Minor Update",
+      "changes": [
+        "New garage environment",
+        "Add camera effects and camera angles in main menu"
+      ],
+      "images": [
+        "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/screenshots/4.jpeg"
+      ]
+    },
+    {
       "version": "1.02",
       "date": "2026-03-08",
       "title": "Minor Update",
@@ -23,8 +35,7 @@
         "Multiplayer Mode"
       ],
       "images": [
-        "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/screenshots/3.jpeg",
-        "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/screenshots/4.jpeg"
+        "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/screenshots/3.jpeg"
       ]
     }
   ]
