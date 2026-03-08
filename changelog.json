@@ -9,6 +9,7 @@
         "Add camera effects and camera angles in main menu"
       ],
       "images": [
+        "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/screenshots/4.jpeg",
         "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/screenshots/4.jpeg"
       ]
     },
@@ -35,7 +36,8 @@
         "Multiplayer Mode"
       ],
       "images": [
-        "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/screenshots/3.jpeg"
+        "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/screenshots/3.jpeg",
+        "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/screenshots/4.jpeg"
       ]
     }
   ]
