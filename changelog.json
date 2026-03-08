@@ -1,0 +1,31 @@
+{
+  "versions": [
+    {
+      "version": "1.02",
+      "date": "2026-03-08",
+      "title": "Minor Update",
+      "changes": [
+        "Fixed multiplayer connection issues",
+        "Enhanced UI/UX of the camera"
+      ],
+      "images": [
+        "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/screenshots/1.jpeg",
+        "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/screenshots/2.jpeg"
+      ]
+    },
+    {
+      "version": "1.01",
+      "date": "2026-03-07",
+      "title": "Initial Release",
+      "changes": [
+        "First public release",
+        "Singleplayer mode",
+        "Multiplayer Mode"
+      ],
+      "images": [
+        "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/screenshots/3.jpeg",
+        "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/screenshots/4.jpeg"
+      ]
+    }
+  ]
+}
