@@ -16,6 +16,17 @@
       "manifestUrl": "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/manifest_1.01.json",
       "manifestFile": "manifest_1.01.json",
       "manifestHash": "f7e53e82be3ce764f0d0f0d71c5b6dcdcb05203734ba468c8a594cb36e5d32ef"
+    },
+    {
+      "version": "1.02",
+      "fromVersion": "1.01",
+      "patchZipUrl": "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/patches/patch_1.02.zip",
+      "patchZip": "patch_1.02.zip",
+      "zipSize": 1493663,
+      "zipHash": "cf552e3ab116bbe873874f553d531d5e0b2a3efe5faccc078544bc9803417620",
+      "manifestUrl": "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/manifest_1.02.json",
+      "manifestFile": "manifest_1.02.json",
+      "manifestHash": "8803f2cb4ea025274f9ed94637b08488c3418fd81eb575d4fbb017ecde9c868d"
     }
   ]
 }
