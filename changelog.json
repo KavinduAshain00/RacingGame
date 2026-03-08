@@ -1,6 +1,18 @@
 {
   "versions": [
     {
+      "version": "1.04",
+      "date": "2026-03-06",
+      "title": "Minor Patch",
+      "changes": [
+        "Garage bug fixes"
+      ],
+      "images": [
+        "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/screenshots/1.jpeg",
+        "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/screenshots/2.jpeg"
+      ]
+    },
+    {
       "version": "1.03",
       "date": "2026-03-08",
       "title": "Minor Update",

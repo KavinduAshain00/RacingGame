@@ -1,0 +1,111 @@
+{
+  "version": "1.04",
+  "fromVersion": "1.03",
+  "patchZipUrl": "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/patches/patch_1.04.zip",
+  "files": [
+    {
+      "path": "version.txt",
+      "type": "delta",
+      "patchFile": "version.txt.patch.gz",
+      "compressedSize": 53,
+      "uncompressedSize": 4,
+      "hash": "e2319fb92a0e5b82336be0b0d266108e8166ab960d616e36efb196a45691acb1"
+    },
+    {
+      "path": "CityCarGame_Data/boot.config",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_boot.config.patch.gz",
+      "compressedSize": 87,
+      "uncompressedSize": 156,
+      "hash": "5727d11453151d5d9499aab89c1600ad60b2b98afee3ff62b19bdbce30f6664d"
+    },
+    {
+      "path": "CityCarGame_Data/globalgamemanagers",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_globalgamemanagers.patch.gz",
+      "compressedSize": 57616,
+      "uncompressedSize": 1857540,
+      "hash": "1babcac9876265b5f8023cfa7dd737e49b5917a9960379fc602abafa5cd1b908"
+    },
+    {
+      "path": "CityCarGame_Data/globalgamemanagers.assets",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_globalgamemanagers.assets.patch.gz",
+      "compressedSize": 29648,
+      "uncompressedSize": 1089424,
+      "hash": "e3bc88bbd10bc89c606f20262a76a0a17b1428f91e32d201c2a8ad67823c4446"
+    },
+    {
+      "path": "CityCarGame_Data/globalgamemanagers.assets.resS",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_globalgamemanagers.assets.resS.patch.gz",
+      "compressedSize": 109,
+      "uncompressedSize": 5966192,
+      "hash": "7b86a50efad5d30ca5265be07bc8ed74edd8f1c4d8c0d6a7e2f6cc1e6c185dba"
+    },
+    {
+      "path": "CityCarGame_Data/level0",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_level0.patch.gz",
+      "compressedSize": 8304,
+      "uncompressedSize": 1124428,
+      "hash": "4343d3e81ccff1e9b8ce21091fec17b81a8099b5f16db8ac2c7aca542c65e52d"
+    },
+    {
+      "path": "CityCarGame_Data/level1",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_level1.patch.gz",
+      "compressedSize": 18936,
+      "uncompressedSize": 2175884,
+      "hash": "8fc0c1712528d42a2e0265cdba635dd3fb12ddd66c12966899dade5bdd0feb16"
+    },
+    {
+      "path": "CityCarGame_Data/level2",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_level2.patch.gz",
+      "compressedSize": 9002,
+      "uncompressedSize": 1240676,
+      "hash": "addaecb9b421946d269b0f17b7f6bd099a7115c4e3d3a0f93de5c57c3c380fd7"
+    },
+    {
+      "path": "CityCarGame_Data/resources.assets",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_resources.assets.patch.gz",
+      "compressedSize": 308618,
+      "uncompressedSize": 76663780,
+      "hash": "c7834323807a306617968e2c35b65351a0125b5a8cb9ce0bccb0685dbee59a15"
+    },
+    {
+      "path": "CityCarGame_Data/sharedassets0.assets",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_sharedassets0.assets.patch.gz",
+      "compressedSize": 120791,
+      "uncompressedSize": 2649476,
+      "hash": "8a68fa16a022b66d347ca239225db548047b058df1cc47d8fc364a56b00a0c3d"
+    },
+    {
+      "path": "CityCarGame_Data/sharedassets1.assets",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_sharedassets1.assets.patch.gz",
+      "compressedSize": 1626,
+      "uncompressedSize": 3561080,
+      "hash": "91eea11214e73a52866e11cc90dc4abe79581bee87dbdfa5b61bbba62a1bc4f9"
+    },
+    {
+      "path": "CityCarGame_Data/sharedassets2.assets",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_sharedassets2.assets.patch.gz",
+      "compressedSize": 305,
+      "uncompressedSize": 15104,
+      "hash": "66ee67cd0dd015484b453ada3dfad294f41b2689cef73556a66954813e5fd889"
+    },
+    {
+      "path": "CityCarGame_Data/Resources/unity_builtin_extra",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_Resources_unity_builtin_extra.patch.gz",
+      "compressedSize": 1670,
+      "uncompressedSize": 443012,
+      "hash": "9ab0ca99164e1d539fd534327c13dc43f559b5da10b5c778be0606799f7d9e7b"
+    }
+  ]
+}
