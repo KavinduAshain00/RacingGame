@@ -1,10 +1,10 @@
 {
   "latestVersion": "1.03",
   "baseUrl": "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/patches/",
-  "fullGameUrl": "https://dl.dropboxusercontent.com/scl/fi/ssc9sjqlwjwig2sf12jix/game_full_1.01.zip?rlkey=05qom2ks1wdx9zwihn8t8tt3g&st=f6fthtmo&raw=1",
-  "fullGameZip": "game_full_1.01.zip",
-  "fullGameSize": 268900684,
-  "fullGameHash": "b9865977911b865ac9a2fc8b829e3155f59b2be43a33e9ed5b291c7aecbbab9e",
+  "fullGameUrl": "https://dl.dropboxusercontent.com/scl/fi/81k301wb8mvuoqxktv0s0/game_full_1.03.zip?rlkey=h5ec5zdftad55iduuw0rtq570&st=xmqjmuj3&raw=1",
+  "fullGameZip": "game_full_1.03.zip",
+  "fullGameSize": 253019568,
+  "fullGameHash": "185a0b731a4648fd435ce617f7c36e2c566880253ad353661b21a89c73ae98cb",
   "patches": [
     {
       "version": "1.02",
@@ -20,13 +20,27 @@
     {
       "version": "1.03",
       "fromVersion": "1.02",
-      "patchZipUrl": "https://dl.dropboxusercontent.com/scl/fi/lehbfbjbp8sz4mlg1cc7w/patch_1.03.zip?rlkey=tpes9ddw79r6oqr78azeb3c2d&st=zogbn70n&raw=1",
-      "patchZip": "patch_1.03.zip",
-      "zipSize": 111851869,
-      "zipHash": "78c1c010ee7f0ed3794ff1ead327b1593352a876dc8acdf9090d8cdde13efc96",
+      "patchZipUrl": "",
+      "patchZip": "",
+      "zipSize": 111851891,
+      "zipHash": "",
       "manifestUrl": "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/manifest_1.03.json",
       "manifestFile": "manifest_1.03.json",
-      "manifestHash": ""
+      "manifestHash": "",
+      "patchZipParts": [
+        {
+          "url": "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/patches/patch_1.03_part1.zip",
+          "fileName": "patch_1.03_part1.zip",
+          "size": 73606682,
+          "hash": "33306102e0bdf423f8a527d9a8092c8e1ca01d0f18719925056836967373b903"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/patches/patch_1.03_part2.zip",
+          "fileName": "patch_1.03_part2.zip",
+          "size": 38245209,
+          "hash": "833e86c82aea6591170bdca5efc2e15a69b144370fc0c319155f9194182c43da"
+        }
+      ]
     }
   ]
 }
