@@ -1,6 +1,6 @@
 {
   "version": "1.01",
-  "baseUrl": "https://cdn.game.com/patches/",
+  "baseUrl": "https://github.com/KavinduAshain00/RacingGame/tree/1bee7bfc712e42b466a18bf2b1a97fec65c421eb/files/",
   "files": [
     {
       "path": "version.txt",
