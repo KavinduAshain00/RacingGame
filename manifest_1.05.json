@@ -1,0 +1,127 @@
+{
+  "version": "1.05",
+  "fromVersion": "1.04",
+  "patchZipUrl": "https://cdn.game.com/patches/patch_1.05.zip",
+  "files": [
+    {
+      "path": "version.txt",
+      "type": "delta",
+      "patchFile": "version.txt.patch.gz",
+      "compressedSize": 53,
+      "uncompressedSize": 4,
+      "hash": "684693531e8c09543aaa08eaf83465f23a10d8235fde3f8ee3d146393c08a9e7"
+    },
+    {
+      "path": "CityCarGame_Data/boot.config",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_boot.config.patch.gz",
+      "compressedSize": 87,
+      "uncompressedSize": 156,
+      "hash": "b53b336c578ac123fcfed6a929290d2de91fe17f70079fa45cac1a2e81fa729d"
+    },
+    {
+      "path": "CityCarGame_Data/globalgamemanagers",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_globalgamemanagers.patch.gz",
+      "compressedSize": 57687,
+      "uncompressedSize": 1857620,
+      "hash": "2fd996f9189ebfa5011c71011de12040b7462a86bfa50220d0234b228957413d"
+    },
+    {
+      "path": "CityCarGame_Data/globalgamemanagers.assets",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_globalgamemanagers.assets.patch.gz",
+      "compressedSize": 43131,
+      "uncompressedSize": 1130560,
+      "hash": "3e8079b0e614176bf9188fb202e3583f051f97f0fb02892fab67848a95ca898c"
+    },
+    {
+      "path": "CityCarGame_Data/globalgamemanagers.assets.resS",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_globalgamemanagers.assets.resS.patch.gz",
+      "compressedSize": 459180,
+      "uncompressedSize": 6424944,
+      "hash": "9a411ad067e25b350c2274ddff98aa9393fee8de8a8f3de5f88a2ea3cfdab7a1"
+    },
+    {
+      "path": "CityCarGame_Data/level0",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_level0.patch.gz",
+      "compressedSize": 8284,
+      "uncompressedSize": 1124428,
+      "hash": "c4a996aa425666a8b5a5dddfd0a902b18c850e01e8765ae8493cd37afb22a2ea"
+    },
+    {
+      "path": "CityCarGame_Data/level0.resS",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_level0.resS.patch.gz",
+      "compressedSize": 1742,
+      "uncompressedSize": 2489680,
+      "hash": "1d6ad448e3e5f3482703ada97e9a36daf1e4c2624973460735398ad30d9cbe2c"
+    },
+    {
+      "path": "CityCarGame_Data/level1",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_level1.patch.gz",
+      "compressedSize": 36198,
+      "uncompressedSize": 2175900,
+      "hash": "3d70d864de85cf74b862eea775cbf278adc9b3a10cf94af88848b75a96e18ba0"
+    },
+    {
+      "path": "CityCarGame_Data/level2",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_level2.patch.gz",
+      "compressedSize": 8991,
+      "uncompressedSize": 1240676,
+      "hash": "beb50627e0dab5d8cf5fe6144bca0f606cb8ed03bea0fafb6815267621a2d0e6"
+    },
+    {
+      "path": "CityCarGame_Data/resources.assets",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_resources.assets.patch.gz",
+      "compressedSize": 340144,
+      "uncompressedSize": 76714372,
+      "hash": "fed0d28707e2d2c208b0f8e4002913869acbbfb547e7a3911262aaca79307a1f"
+    },
+    {
+      "path": "CityCarGame_Data/sharedassets0.assets",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_sharedassets0.assets.patch.gz",
+      "compressedSize": 296789,
+      "uncompressedSize": 2874964,
+      "hash": "f197004299db5eee41c075f44a778d413fb135370214eb721da2fc380131679f"
+    },
+    {
+      "path": "CityCarGame_Data/sharedassets1.assets",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_sharedassets1.assets.patch.gz",
+      "compressedSize": 1615,
+      "uncompressedSize": 3561096,
+      "hash": "9178364dee498fae39b1f33db8e657c3008cbf98de3cd0f4a366fe3376bbfad0"
+    },
+    {
+      "path": "CityCarGame_Data/sharedassets2.assets",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_sharedassets2.assets.patch.gz",
+      "compressedSize": 305,
+      "uncompressedSize": 15104,
+      "hash": "e4f13d0791fdc7a55cfde4d1a6b937a7c3f26c25cc808d05e5da77b1f6488c0f"
+    },
+    {
+      "path": "CityCarGame_Data/Managed/Assembly-CSharp.dll",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_Managed_Assembly-CSharp.dll.patch.gz",
+      "compressedSize": 142282,
+      "uncompressedSize": 1350656,
+      "hash": "4be94301f3f2599c978a24f649f896a486a658c92e357cd5fb32918f8e8da83f"
+    },
+    {
+      "path": "CityCarGame_Data/Resources/unity_builtin_extra",
+      "type": "delta",
+      "patchFile": "CityCarGame_Data_Resources_unity_builtin_extra.patch.gz",
+      "compressedSize": 1928,
+      "uncompressedSize": 443396,
+      "hash": "3ee639a804212b20a0bcccb651816c35b8010739bb33f8235b3ae07765d9ea2b"
+    }
+  ]
+}
