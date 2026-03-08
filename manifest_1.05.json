@@ -1,7 +1,7 @@
 {
   "version": "1.05",
   "fromVersion": "1.04",
-  "patchZipUrl": "https://cdn.game.com/patches/patch_1.05.zip",
+  "patchZipUrl": "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/patches/patch_1.05.zip",
   "files": [
     {
       "path": "version.txt",
