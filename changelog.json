@@ -1,6 +1,19 @@
 {
   "versions": [
     {
+      "version": "1.05",
+      "date": "2026-03-08",
+      "title": "Minor Patch",
+      "changes": [
+        "Fix the drift event issue in multiplayer mode",
+        "fix the garage bug"
+      ],
+      "images": [
+        "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/screenshots/3.jpeg",
+        "https://raw.githubusercontent.com/KavinduAshain00/RacingGame/refs/heads/main/screenshots/4.jpeg"
+      ]
+    },
+    {
       "version": "1.04",
       "date": "2026-03-06",
       "title": "Minor Patch",
